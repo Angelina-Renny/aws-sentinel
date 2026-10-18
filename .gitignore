@@ -1,0 +1,33 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Secrets and local environment settings
+.env
+.env.*
+!.env.example
+
+# Jupyter Notebook temporary files
+.ipynb_checkpoints/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Local logs
+*.log
+
+# Keep large/raw datasets out of GitHub
+data/
+
+# Keep trained model artifacts out of GitHub
+models/
+
+# Keep generated reports out, except the dashboard's required report
+reports/*
+!reports/unified_anomaly_report.csv

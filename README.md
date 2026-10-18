@@ -81,7 +81,23 @@ The dashboard should open in your browser. The app expects its unified anomaly r
 
 ## 🖥️ Dashboard Preview
 
-*A screenshot of the running dashboard will be added here.*
+### 1. Main Dashboard
+![AWS Sentinel Dashboard](Screenshots/dashboard.png.jpeg)
+
+### 2. Detection Methods
+![Detection Methods](Screenshots/detection%20method.png.jpeg)
+
+### 3. Flagged Observations
+![Flagged Observations](Screenshots/flagged%20observation.png.jpeg)
+
+### 4. Monthly Anomaly Analysis
+![Monthly Anomaly Analysis](Screenshots/monthly%20anomaly.png.jpeg)
+
+### 5. Temperature Timeline
+![Temperature Timeline](Screenshots/temp-timeline.png.jpeg)
+
+### 6. Anomaly Investigation
+![Anomaly Investigation](Screenshots/anomaly%20investigation.png.jpeg)
 
 ## 🎯 Project Goal
 

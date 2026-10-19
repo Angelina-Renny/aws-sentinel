@@ -77,6 +77,10 @@ pip install -r requirements.txt
 python -m streamlit run app.py
 ```
 
+## 🚀 Live Demo
+
+👉 [Launch AWS Sentinel Dashboard](https://aws-sentinel-dashboard.streamlit.app/)
+
 The dashboard should open in your browser. The app expects its unified anomaly report at `reports/unified_anomaly_report.csv`.
 
 ## 🖥️ Dashboard Preview
